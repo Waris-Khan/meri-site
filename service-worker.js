@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/meri-site/precache-manifest.6f185ed94e57cedea5a7ae2769328c44.js"
+  "/meri-site/precache-manifest.85cd20edc4b01340f1291e32ae0681e2.js"
 );
 
 self.addEventListener('message', (event) => {

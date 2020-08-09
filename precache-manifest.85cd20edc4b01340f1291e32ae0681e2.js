@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef8a9d459d97a3adcc651426db2f207b",
+    "revision": "9428d71737a596d413122afe900ed933",
     "url": "/meri-site/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meri-site/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "f1e23483e91a9875a3fa",
-    "url": "/meri-site/static/css/main.a187274e.chunk.css"
+    "revision": "124bf3cceddf5a8c34dc",
+    "url": "/meri-site/static/css/main.e5eb303a.chunk.css"
   },
   {
     "revision": "4fa4846646c462575288",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meri-site/static/js/2.2db2dad3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1e23483e91a9875a3fa",
+    "revision": "124bf3cceddf5a8c34dc",
     "url": "/meri-site/static/js/main.bf7cb492.chunk.js"
   },
   {
